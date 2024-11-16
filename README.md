@@ -33,7 +33,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-PSivaMallikarjun/XenaEvents.git
+git clone [https://github.com/your-PSivaMallikarjun/XenaEvents.git](https://github.com/PSivaMallikarjun/XenaEvents)
 cd XenaEvents
 Open in Visual Studio Code:
 
